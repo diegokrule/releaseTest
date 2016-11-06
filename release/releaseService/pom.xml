@@ -6,4 +6,11 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>releaseService</artifactId>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.test</groupId>
+  		<artifactId>releaseProvider</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
